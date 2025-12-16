@@ -3,11 +3,5 @@
   "country": "w1",
   "appFolders": [],
   "testFolders": [],
-  "artifact": "bcartifacts/sandbox/23.0.12034.13450/w1/closest",
-  "appDependencyProbingPaths": [
-    {
-      "repo": "Merc-Sagar/Dependencies2",
-      "release_status": "latestBuild",      
-    }
-  ]
+  "artifact": "bcartifacts/sandbox/23.0.12034.13450/w1/closest"
 }
