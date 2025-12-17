@@ -11,7 +11,12 @@
   "url": "",
   "logo": "",
   "dependencies": [
-    
+  {
+    "id": "31f4da45-c5db-4395-a2c6-7113928e424c",
+    "name": "Licensing",
+    "publisher": "Sagar",
+    "version": "1.0.0.0"
+  }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
